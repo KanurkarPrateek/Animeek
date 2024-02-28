@@ -1,0 +1,29 @@
+Jutsu ---> Function
+BelieveIt ----> Let
+DevilFruit ----> Const 
+In your programming language, using "DevilFruit" instead of "const" symbolizes the declaration of a constant value imbued with extraordinary capabilities, akin to the mythical powers of Devil Fruits in the Grand Line.
+By integrating "DevilFruit" as a keyword for constant declarations, you evoke the adventurous spirit of One Piece and offer programmers the opportunity to explore fantastical abilities within their code.
+
+Kamehameha -----> Print
+he Kamehameha is one of the most iconic and powerful energy waves in the Dragon Ball series, famously used by characters like Goku and Master Roshi. It's a signature move that requires concentration, skill, and a tremendous amount of energy. In your programming language, using "Kamehameha" instead of "print" signifies the act of unleashing output or displaying information with great force and impact, much like the powerful energy blast of the Kamehameha.
+By incorporating "Kamehameha" as your print keyword, you invite programmers to channel their coding prowess and unleash their creativity with the same intensity and determination as the warriors of Dragon Ball Z.
+
+WaifuSelector (switch) - DereType (case):
+
+SenpaiNotice (switch) - TsundereResponse (case):
+
+Talk no Jutsu (if) - Rasengan (else):
+
+YameteKudasai ------> Break;
+
+True and False :---->
+
+##################
+Naruto
+#################
+
+Jutsu ----> Function
+
+BelieveIt ------> Let
+
+Chidori -----> Print
